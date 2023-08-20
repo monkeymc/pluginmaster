@@ -1,7 +1,7 @@
 [
     {
         "Author":  "chatja",
-        "Name":  "Combo",
+        "Name":  "combo",
         "InternalName":  "",
         "AssemblyVersion":  "1.0.0.0",
         "Description":  "",
@@ -15,8 +15,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1692499169",
-        "DownloadLinkInstall":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip"
     }
 ]
