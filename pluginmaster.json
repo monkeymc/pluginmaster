@@ -15,8 +15,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1692498688",
-        "DownloadLinkInstall":  "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/combo/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/combo/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/combo/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/monkeymc/pluginmaster/raw/master/combo/latest.zip"
     }
 ]
