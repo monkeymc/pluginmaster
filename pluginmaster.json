@@ -1,8 +1,8 @@
 [
     {
         "Author":  "chatja",
-        "Name":  "combo",
-        "InternalName":  "",
+        "Name":  "Combo",
+        "InternalName":  "XIVSlothCombo",
         "AssemblyVersion":  "1.0.0.0",
         "Description":  "",
         "ApplicableVersion":  "any",
@@ -11,7 +11,7 @@
         "LoadSync":  false,
         "LoadPriority":  0,
         "Punchline":  "",
-        "AcceptsFeedback":  true,
+        "AcceptsFeedback":  false,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1692499169",
