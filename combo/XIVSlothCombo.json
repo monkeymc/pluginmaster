@@ -11,9 +11,9 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://i.imgur.com/iEcxM81.png"
+    ""
   ],
-  "IconUrl": "https://i.imgur.com/iEcxM81.png",
+  "IconUrl": "",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "Changelog": "Features, Fixes & Enhancements for Framework, AST, ASTPvP, RDM, SGE and SCH. Please check the project's GitHub or Discord for a full changelog.",
   "AcceptsFeedback": true
