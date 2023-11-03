@@ -14,9 +14,29 @@
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1692499169",
+        "LastUpdate": "1699007964",
         "DownloadLinkInstall": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
         "DownloadLinkTesting": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip"
+    },
+    {
+        "Author": "monkeymc",
+        "Name": "XIVSlothCombo",
+        "InternalName": "XIVSlothCombo",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "",
+        "AcceptsFeedback": false,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1699007964",
+        "DownloadLinkInstall": "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip",
+        "DownloadLinkTesting": "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/monkeymc/pluginmaster/raw/main/combo/latest.zip"
     }
 ]
