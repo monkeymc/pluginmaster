@@ -1,12 +1,12 @@
 [
     {
-        "Author": "UnknownX",
+        "Author": "monkeymc",
         "Name": "NoClippy",
         "InternalName": "NoClippy",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "0.0.0.0",
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
