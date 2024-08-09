@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "monkeymc",
+        "Name": "NoClippy",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "7.0.0.0",
+        "Description": "Usable with XivAlexander.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "",
+        "AcceptsFeedback": false,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1719939765",
+        "DownloadLinkInstall": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip"
+    }
+]
