@@ -18,25 +18,5 @@
         "DownloadLinkInstall": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
         "DownloadLinkTesting": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/monkeymc/pluginmaster/raw/main/noclippy/latest.zip"
-    },
-    {
-        "Author": "monkeymc",
-        "Name": "XIVSlothCombo",
-        "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "7.0.0.0",
-        "Description": "Can toggle in Combat",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "LoadPriority": 0,
-        "Punchline": "",
-        "AcceptsFeedback": false,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": "0",
-        "DownloadLinkInstall": "https://github.com/monkeymc/pluginmaster/raw/main/scombo/latest.zip",
-        "DownloadLinkTesting": "https://github.com/monkeymc/pluginmaster/raw/main/scombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/monkeymc/pluginmaster/raw/main/scombo/latest.zip"
     }
 ]
